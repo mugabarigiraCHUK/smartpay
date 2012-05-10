@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear.png</file>
+        <file>images/008_Reminder_128x128_72.png</file>
+        <file>images/023_Tip_128x128_72.png</file>
+        <file>images/1522_stop_watch_48x48.png</file>
+    </qresource>
+</RCC>
