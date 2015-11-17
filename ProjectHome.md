@@ -1,0 +1,1 @@
+SmartPay is a payroll system for kenyan employers.
